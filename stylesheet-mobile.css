@@ -1,0 +1,78 @@
+
+
+body{
+	width:100%;
+background-image: none;
+background-color: grey;
+}
+
+.bio{
+	width: 100%;
+	height: auto;
+	background-color: rgba(0, 0, 0, 0.298039);
+	opacity:1;
+	position: relative;
+	color: whitesmoke;
+	font-family: "Comic Sans MS";
+	padding: 20px;
+}
+
+#img {
+	width: 100%;
+	height: 100%;
+	
+}
+		#img img{
+		width:100%;
+		}
+
+#name{
+	font-size:  40px;
+	margin:0px;
+}
+
+#tagline{
+	width:100%;
+	font-size:  15px;
+	
+}
+
+	#navbar a{
+		text-decoration: none;
+		display:inline;
+	}
+
+.aboutme{
+	width:100%;
+	height: auto;
+	padding:0px;
+	float:left;
+}
+
+#profilepic{
+	width:25%;
+	height:100%;
+	margin: 0%;
+	float:left;
+}
+
+	#profilepic img{
+		width:75px;
+		height:75px;
+		padding-top:35px;
+		text-align:center;
+	}
+
+#content{
+	width: 50%;
+	height:auto;
+	float:left;
+}
+
+.clear{
+	clear:both;
+}
+
+
+
+
